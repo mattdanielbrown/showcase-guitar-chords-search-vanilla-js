@@ -21,6 +21,6 @@
     "@tombatossals/react-chords": "^0.2.10",
     "instantsearch.js": "^4.77.0",
     "react-dom": "^18.2.0",
-    "typesense-instantsearch-adapter": "^2.8.0"
+    "typesense-instantsearch-adapter": "^2.9.0"
   }
 }
