@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "cypress": "^13.17.0",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.2.1",
     "typesense": "^1.8.2",
     "vite": "^5.0.8"
   },
