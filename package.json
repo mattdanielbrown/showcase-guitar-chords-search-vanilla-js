@@ -20,7 +20,7 @@
   "dependencies": {
     "@tombatossals/react-chords": "^0.2.10",
     "instantsearch.js": "^4.77.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.1.1",
     "typesense-instantsearch-adapter": "^2.8.0"
   }
 }
